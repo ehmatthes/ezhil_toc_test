@@ -4,7 +4,7 @@ date: 2020-06-24T11:42:22-08:00
 draft: true
 ---
 
-
+{{% toc %}}
 
 ## Great point 1
 
